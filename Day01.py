@@ -3,7 +3,7 @@ numberZeros = 0;
 
 iters = 0;
 
-with open("../Combos.txt", "r") as f:
+with open("Combos.txt", "r") as f:
     for line in f:
         iters += 1
         # L or R
