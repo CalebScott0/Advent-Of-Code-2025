@@ -1,8 +1,6 @@
 dial_position = 50
 number_zeros = 0
 
-x = ["L68", "L30", "R48", "L5", "R60", "L55", "L1", "L99", "R14", "L82"]
-
 with open("Combos.txt", "r") as f:
     for line in f:
     #for line in x:
